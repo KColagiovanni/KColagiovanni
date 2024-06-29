@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Colagiovanni
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Python/C++/Web Dev
-- 💞️ I’m looking to learn more about Java and back-end development
+- 💞️ I’m looking to learn more about back-end development
 - 📫 How to reach me: KColagiovanni@gmail.com
 
 **To clone a directory:**
