@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kevin Colagiovanni
+- ✨ I'm a Computer Science major
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Python/C++/Web Dev
-- 💞️ I’m looking to learn more about back-end development
+- 💞️ In the future I'd plan to learn more about back-end development
 - 📫 How to reach me: KColagiovanni@gmail.com
 
 <!---
