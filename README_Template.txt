@@ -12,4 +12,6 @@
 
 ## How to Use
 
+## Visualizations
+
 ## Credits/Resources
