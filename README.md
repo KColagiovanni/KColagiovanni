@@ -1,5 +1,5 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Kevin Colagiovanni
-- 🏫 I'm a Computer Science major and work as a software teat engineer
+- 🏫 I'm a Computer Science major and work as a software test engineer
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Python, C++, Web Dev, and SW quality testing.
 - 💞️ In the future I'd plan to learn more about back-end development
