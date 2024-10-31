@@ -2,7 +2,7 @@
 - 🏫 I'm a Computer Science major and work as a software test engineer
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Python, C++, Web Dev, and SW quality testing.
-- 💞️ In the future I'd plan to learn more about back-end development
+- 💞️ In the future I plan to learn more about back-end development
 - 📫 How to reach me: KColagiovanni@gmail.com
 
 ### 💻 Languages:
